@@ -1,4 +1,3 @@
-# news-website
 # News Website README
 
 This project is a simple news website that allows users to search for news articles based on their interests. It utilizes the News API to fetch real-time news data. Users can input their search queries, and the website will display relevant news articles along with their titles, descriptions, sources, publication dates, and images if available.
@@ -7,7 +6,7 @@ This project is a simple news website that allows users to search for news artic
 
 - **Search Functionality**: Users can search for news articles by entering keywords in the search input field and clicking the search button.
 - **Dynamic Content**: The website dynamically updates and displays news articles based on user search queries.
-- **Responsive Design**: The website is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
+- **Responsive Design**: The website is designed to be responsive, ensuring an optimal viewing experience across various devices and screen sizes.
 
 ## Technologies Used
 
@@ -21,7 +20,7 @@ This project is a simple news website that allows users to search for news artic
 1. **Clone the Repository**: Clone this repository to your local machine using Git or download the ZIP file.
 
    ```
-  git clone https://github.com/RohanSinghTakhi/news-website
+   git clone https://github.com/RohanSinghTakhi/news-website
    ```
 
 2. **Open the Project**: Navigate to the project directory and open the `index.html` file in your preferred web browser.
@@ -40,9 +39,9 @@ To use the News API and fetch news data, you need to obtain an API key from [New
 
 ## Credits
 
-- **Author**: rohan
+- **Author**: Rohan
 - **Email**: rstakhi2005@gmail.com
-- **GitHub**: https://github.com/RohanSinghTakhi
+- **GitHub**: [RohanSinghTakhi](https://github.com/RohanSinghTakhi)
 
 ## License
 
