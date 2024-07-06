@@ -21,7 +21,7 @@ This project is a simple news website that allows users to search for news artic
 1. **Clone the Repository**: Clone this repository to your local machine using Git or download the ZIP file.
 
    ```
-   git clone https://github.com/your-username/news-website.git
+  git clone https://github.com/your-username/news-website.git](https://github.com/RohanSinghTakhi/news-website
    ```
 
 2. **Open the Project**: Navigate to the project directory and open the `index.html` file in your preferred web browser.
